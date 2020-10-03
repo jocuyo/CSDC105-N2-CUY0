@@ -1,8 +1,7 @@
 # Author          : Josephine Cuyo
 # Course and Year : 2nd Year BS-IT
 # Filename        : geometry.py
-# Description     : The necessary code to compute the perimeter of a polygon
-#                   and the area of a triangle using Heron’s formula.
+# Description     : Two functions named perimeter and triangle_heronsarea which computes the perimeter and the area of a triangle with valid lengths.
 # Honor Code      : I have not given nor received any unathorized help in
 #                   completing this exercise. I am also well aware of the 
 #                   policies stipulated in the AdNU student handbook.
