@@ -1,3 +1,11 @@
+# Author          : Josephine Cuyo
+# Course and Year : 2nd Year BS-IT
+# Filename        : geometry.py
+# Description     : {A brief description of what this program does}
+# Honor Code      : I have not given nor received any unathorized help in
+#                   completing this exercise. I am also well aware of the 
+#                   policies stipulated in the AdNU student handbook.
+
 import math
 
 def perimeter(a,b,c):       
